@@ -5,7 +5,7 @@ Hello world! I'm **VNCE**, and welcome to my Github profile.
 I'm a computer science student in **network administration**, and i'm currently working as a front-end developer during my long sleepless nights.
 
 - :hammer_and_pick: Python / ~~Markdown~~. ReactJS.
-- :package: Building [medialyy](https://github.com/VZCE/medialyy), [beedownloader](https://github.com/VZCE/), and more.
+- :package: Building [medialyy](https://github.com/VZCE/medialyy), [beescdl](https://github.com/VZCE/beescdl), and more.
 - :pencil2: Figma & VS Code.
 - :memo: [Portfolio](https://) :airplane: [Telegram](https://t.me/yungvnce).
 - :peach: `hiddenscars#6665`
