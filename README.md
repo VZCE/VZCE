@@ -4,7 +4,7 @@ Hello world! I'm **VNCE**, and welcome to my Github profile.
 
 I'm currently working as a freelance front-end developer dedicated to transforming your ideas into digital realities, even during my long, sleepless nights. Passionate and committed, I am always willing to work late to ensure the success of your projects.
 
-- :hammer_and_pick: Python / ~~Markdown~~. ReactJS.
+- :hammer_and_pick: Vue.js / NextJS / ~~Markdown~~.
 - :package: Building [lunacy](https://github.com/VZCE/), [mbrpc](https://github.com/VZCE/mbrpc), and more.
 - :pencil2: Figma & VS Code.
 - :memo: [Portfolio](https://vnce.dev) :airplane: [Telegram](https://t.me/yungvnce).
