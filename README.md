@@ -2,13 +2,13 @@
 
 Hello world! I'm **VNCE**, and welcome to my Github profile.
 
-I'm a computer science student in **network administration**, and i'm currently working as a front-end developer during my long sleepless nights.
+I'm currently working as a freelance front-end developer dedicated to transforming your ideas into digital realities, even during my long, sleepless nights. Passionate and committed, I am always willing to work late to ensure the success of your projects.
 
 - :hammer_and_pick: Python / ~~Markdown~~. ReactJS.
-- :package: Building [lunacy](https://github.com/VZCE/lunacy), [beescdl](https://github.com/VZCE/beescdl), and more.
+- :package: Building [lunacy](https://github.com/VZCE/), [mbrpc](https://github.com/VZCE/mbrpc), and more.
 - :pencil2: Figma & VS Code.
-- :memo: [Portfolio](https://) :airplane: [Telegram](https://t.me/yungvnce).
-- :peach: `hiddenscars#6665`
+- :memo: [Portfolio](https://vnce.dev) :airplane: [Telegram](https://t.me/yungvnce).
+- :peach: `redmirrored`
 
 ## :sparkles: Stats
 
@@ -23,4 +23,4 @@ I'm a computer science student in **network administration**, and i'm currently 
 ---
 Credit: [VNCE](https://github.com/VZCE)
 
-Last Edited on: 25/05/2023
+Last Edited on: 20/06/2024
